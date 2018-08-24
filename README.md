@@ -1,4 +1,4 @@
-# Git Issues
+# Github Maps
 
 Learning [ReactJS](https://reactjs.org/), project developed in the course of [RocketSeat](https://github.com/RocketSeat).
 
